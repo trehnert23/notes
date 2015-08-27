@@ -3,13 +3,13 @@
 ##Learning Objectives
 
 * Abstract your styles with classes
-* Design modular CSS
-* Practice the challenging intricacies of CSS
+* Design modular CSS classes
+* Organize your CSS into reusable components
 
 ###Steps
 
-* Refer to the `index.html` inside the `starter_code` directory
-* Create an external stylesheet that contains your work or add to `main.css`
+* Refer to the `index.html`
+* Create an external stylesheet that contains your work
 
 ###Tip
 
@@ -17,8 +17,6 @@ Use Chrome's developer tools to test out your styles in real time. This avoids y
 
 
 ##Exercises
-
-For the following exercises, refer to the mini-project in [starter_code](starter_code/).
 
 ###SHOUT IT OUT!
 
@@ -74,6 +72,6 @@ Tip: CSS will mostly use `text-align` (center children) or `margin` (center) for
 
 Make a bullseye using three circle shapes as such:
 
-![bullseye](starter_code/imgs/bullseye.jpg)
+![bullseye](imgs/bullseye.jpg)
 
 Hint: Use absolute and relative positioning, z-index, and some of your existing classes.
